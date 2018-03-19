@@ -1,3 +1,4 @@
+package graph;
 public class Edges {
     int to;
     int weight;
