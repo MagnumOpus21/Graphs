@@ -1,2 +1,3 @@
-# Graphs
-Just some graph practise
+# Practise
+Just some Java practise repository. Time to git good.
+ 
